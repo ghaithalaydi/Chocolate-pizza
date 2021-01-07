@@ -1,0 +1,9 @@
+div{width: 100%;}
+nav ul {display: inline; width: 48%;}
+
+.right{float: right;}
+div p{color: gray;}
+div p figure {float: right;}
+body div img{margin: auto;display: inline-block;}
+body article {text-align: center;}
+body section {background-image:src:('images/list-bg')}
